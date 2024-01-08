@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+form{
+    width: 100%;
+}
+.fields{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+.fields label{
+    width: 130px;
+    text-align: left
+}
+.fields input{
+    width: 200px;
+    padding: 5px 5px;
+}
